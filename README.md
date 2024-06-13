@@ -1,1 +1,1 @@
-Labs from my CS 240 Class.
+Programs/Labs from my CS classes.
